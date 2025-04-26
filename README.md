@@ -40,6 +40,12 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="40" height="40"/>
   </a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo" />
+  </a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo" />
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
