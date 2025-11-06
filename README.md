@@ -97,7 +97,4 @@
 ![snake gif](https://github.com/Aashish-Jha-11/Aashish-Jha-11/blob/output/github-snake-dark.svg)
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Aashish-Jha-11/count.svg" />
-</p>
+
