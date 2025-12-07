@@ -79,9 +79,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashish-Jha-11&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="aashish-jha-11" /></p>
 
 <br><br><br><br><br><br><br><br><p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aashish-Jha-11&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="aashish-jha-11" /></p>
-<!--
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-jha-11&" alt="aashish-jha-11" /></p>
--->
 
 <!--Cards-->
  <br><br><br><br><br><br><div style="display: flex; justify-content: space-between;">
