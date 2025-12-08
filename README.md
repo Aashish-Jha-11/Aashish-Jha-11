@@ -94,6 +94,3 @@
 
 <!--snake GIF-->
 ![snake gif](https://github.com/Aashish-Jha-11/Aashish-Jha-11/blob/output/github-snake-dark.svg)
-
-
-
