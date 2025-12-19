@@ -87,7 +87,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aashish-Jha-11&theme=aura" width="45%" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aashish-Jha-11&theme=aura" alt="Most Commit Language" width="45%" />
 </div>
-
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aashish-Jha-11&theme=aura" alt="GitHub Stats" width="45%" />
 </div>
